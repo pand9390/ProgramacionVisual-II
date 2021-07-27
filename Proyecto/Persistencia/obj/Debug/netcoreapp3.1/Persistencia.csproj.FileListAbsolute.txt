@@ -1,0 +1,4 @@
+E:\Visual Studio 2019\Proyecto\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+E:\Visual Studio 2019\Proyecto\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+E:\Visual Studio 2019\Proyecto\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+E:\Visual Studio 2019\Proyecto\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+E:\Visual Studio 2019\Proyecto\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.AssemblyReference.cache
+E:\Visual Studio 2019\Proyecto\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfoInputs.cache
+E:\Visual Studio 2019\Proyecto\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfo.cs
+E:\Visual Studio 2019\Proyecto\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2019\Proyecto\Modelo\bin\Debug\netcoreapp3.1\Modelo.deps.json
+E:\Visual Studio 2019\Proyecto\Modelo\bin\Debug\netcoreapp3.1\Modelo.dll
+E:\Visual Studio 2019\Proyecto\Modelo\bin\Debug\netcoreapp3.1\Modelo.pdb
+E:\Visual Studio 2019\Proyecto\Modelo\obj\Debug\netcoreapp3.1\Modelo.dll
+E:\Visual Studio 2019\Proyecto\Modelo\obj\Debug\netcoreapp3.1\Modelo.pdb

@@ -1,0 +1,15 @@
+E:\Visual Studio 2019\Proyecto\Escenarios\bin\Debug\net5.0\Escenarios.deps.json
+E:\Visual Studio 2019\Proyecto\Escenarios\bin\Debug\net5.0\Escenarios.dll
+E:\Visual Studio 2019\Proyecto\Escenarios\bin\Debug\net5.0\ref\Escenarios.dll
+E:\Visual Studio 2019\Proyecto\Escenarios\bin\Debug\net5.0\Escenarios.pdb
+E:\Visual Studio 2019\Proyecto\Escenarios\bin\Debug\net5.0\Modelo.dll
+E:\Visual Studio 2019\Proyecto\Escenarios\bin\Debug\net5.0\Modelo.pdb
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.csproj.AssemblyReference.cache
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfoInputs.cache
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfo.cs
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CopyComplete
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.dll
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\ref\Escenarios.dll
+E:\Visual Studio 2019\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.pdb

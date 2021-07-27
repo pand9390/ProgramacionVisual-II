@@ -1,0 +1,9 @@
+E:\Visual Studio 2019\Proyecto\Info\bin\Debug\netcoreapp3.1\Info.deps.json
+E:\Visual Studio 2019\Proyecto\Info\bin\Debug\netcoreapp3.1\Info.dll
+E:\Visual Studio 2019\Proyecto\Info\bin\Debug\netcoreapp3.1\Info.pdb
+E:\Visual Studio 2019\Proyecto\Info\obj\Debug\netcoreapp3.1\Info.csproj.AssemblyReference.cache
+E:\Visual Studio 2019\Proyecto\Info\obj\Debug\netcoreapp3.1\Info.AssemblyInfoInputs.cache
+E:\Visual Studio 2019\Proyecto\Info\obj\Debug\netcoreapp3.1\Info.AssemblyInfo.cs
+E:\Visual Studio 2019\Proyecto\Info\obj\Debug\netcoreapp3.1\Info.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2019\Proyecto\Info\obj\Debug\netcoreapp3.1\Info.dll
+E:\Visual Studio 2019\Proyecto\Info\obj\Debug\netcoreapp3.1\Info.pdb
